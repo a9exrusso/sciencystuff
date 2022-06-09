@@ -1,2 +1,2 @@
 # sciencystuff
-some science notebooks bruh
+some science notebooks
